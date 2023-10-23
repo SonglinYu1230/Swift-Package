@@ -1,0 +1,3406 @@
+{
+    "formatVersion": "1.0",
+    "generatedAt": "2023-10-23T05:25:11Z",
+    "generatedBy": {
+        "name": "Songlin Yu"
+    },
+    "keywords": [
+        "swift",
+        "swiftui"
+    ],
+    "name": "Songlin's Favourite Packages",
+    "overview": "My favourite Swift packages",
+    "packages": [
+        {
+            "url": "https://github.com/Alamofire/Alamofire",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.9",
+                    "manifests": {
+                        "5.9": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.13"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "11.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "11.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "packageName": "Alamofire",
+                            "products": [
+                                {
+                                    "name": "Alamofire",
+                                    "targets": [
+                                        "Alamofire"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Alamofire",
+                                    "name": "Alamofire"
+                                }
+                            ],
+                            "toolsVersion": "5.9"
+                        }
+                    },
+                    "version": "5.8.0"
+                },
+                {
+                    "defaultToolsVersion": "5.8",
+                    "manifests": {
+                        "5.8": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.13"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "11.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "11.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "packageName": "Alamofire",
+                            "products": [
+                                {
+                                    "name": "Alamofire",
+                                    "targets": [
+                                        "Alamofire"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Alamofire",
+                                    "name": "Alamofire"
+                                }
+                            ],
+                            "toolsVersion": "5.8"
+                        }
+                    },
+                    "version": "5.7.1"
+                },
+                {
+                    "defaultToolsVersion": "5.8",
+                    "manifests": {
+                        "5.8": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.13"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "11.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "11.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "4.0"
+                                }
+                            ],
+                            "packageName": "Alamofire",
+                            "products": [
+                                {
+                                    "name": "Alamofire",
+                                    "targets": [
+                                        "Alamofire"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Alamofire",
+                                    "name": "Alamofire"
+                                }
+                            ],
+                            "toolsVersion": "5.8"
+                        }
+                    },
+                    "version": "5.7.0"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "Alamofire",
+                            "products": [
+                                {
+                                    "name": "Alamofire",
+                                    "targets": [
+                                        "Alamofire"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Alamofire",
+                                    "name": "Alamofire"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "4.9.1"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "packageName": "Alamofire",
+                            "products": [
+                                {
+                                    "name": "Alamofire",
+                                    "targets": [
+                                        "Alamofire"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Alamofire",
+                                    "name": "Alamofire"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "4.9.0"
+                },
+                {
+                    "defaultToolsVersion": "4.2",
+                    "manifests": {
+                        "4.2": {
+                            "packageName": "Alamofire",
+                            "products": [
+                                {
+                                    "name": "Alamofire",
+                                    "targets": [
+                                        "Alamofire"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Alamofire",
+                                    "name": "Alamofire"
+                                }
+                            ],
+                            "toolsVersion": "4.2"
+                        }
+                    },
+                    "version": "4.8.2"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/apple/swift-syntax",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.7",
+                    "manifests": {
+                        "5.7": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "maccatalyst",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-syntax",
+                            "products": [
+                                {
+                                    "name": "SwiftBasicFormat",
+                                    "targets": [
+                                        "SwiftBasicFormat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftCompilerPlugin",
+                                    "targets": [
+                                        "SwiftCompilerPlugin"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftCompilerPluginMessageHandling",
+                                    "targets": [
+                                        "SwiftCompilerPluginMessageHandling"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftDiagnostics",
+                                    "targets": [
+                                        "SwiftDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftIDEUtils",
+                                    "targets": [
+                                        "SwiftIDEUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftOperators",
+                                    "targets": [
+                                        "SwiftOperators"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParser",
+                                    "targets": [
+                                        "SwiftParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParserDiagnostics",
+                                    "targets": [
+                                        "SwiftParserDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftRefactor",
+                                    "targets": [
+                                        "SwiftRefactor"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntax",
+                                    "targets": [
+                                        "SwiftSyntax"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxBuilder",
+                                    "targets": [
+                                        "SwiftSyntaxBuilder"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacroExpansion",
+                                    "targets": [
+                                        "SwiftSyntaxMacroExpansion"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacros",
+                                    "targets": [
+                                        "SwiftSyntaxMacros"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacrosTestSupport",
+                                    "targets": [
+                                        "SwiftSyntaxMacrosTestSupport"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "swift-parser-cli",
+                                    "targets": [
+                                        "swift-parser-cli"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SwiftBasicFormat",
+                                    "name": "SwiftBasicFormat"
+                                },
+                                {
+                                    "moduleName": "SwiftCompilerPlugin",
+                                    "name": "SwiftCompilerPlugin"
+                                },
+                                {
+                                    "moduleName": "SwiftCompilerPluginMessageHandling",
+                                    "name": "SwiftCompilerPluginMessageHandling"
+                                },
+                                {
+                                    "moduleName": "SwiftDiagnostics",
+                                    "name": "SwiftDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftIDEUtils",
+                                    "name": "SwiftIDEUtils"
+                                },
+                                {
+                                    "moduleName": "SwiftOperators",
+                                    "name": "SwiftOperators"
+                                },
+                                {
+                                    "moduleName": "SwiftParser",
+                                    "name": "SwiftParser"
+                                },
+                                {
+                                    "moduleName": "SwiftParserDiagnostics",
+                                    "name": "SwiftParserDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftRefactor",
+                                    "name": "SwiftRefactor"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntax",
+                                    "name": "SwiftSyntax"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxBuilder",
+                                    "name": "SwiftSyntaxBuilder"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacroExpansion",
+                                    "name": "SwiftSyntaxMacroExpansion"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacros",
+                                    "name": "SwiftSyntaxMacros"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacrosTestSupport",
+                                    "name": "SwiftSyntaxMacrosTestSupport"
+                                },
+                                {
+                                    "moduleName": "swift_parser_cli",
+                                    "name": "swift-parser-cli"
+                                }
+                            ],
+                            "toolsVersion": "5.7"
+                        }
+                    },
+                    "version": "509.0.1"
+                },
+                {
+                    "defaultToolsVersion": "5.7",
+                    "manifests": {
+                        "5.7": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "maccatalyst",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-syntax",
+                            "products": [
+                                {
+                                    "name": "SwiftBasicFormat",
+                                    "targets": [
+                                        "SwiftBasicFormat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftCompilerPlugin",
+                                    "targets": [
+                                        "SwiftCompilerPlugin"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftCompilerPluginMessageHandling",
+                                    "targets": [
+                                        "SwiftCompilerPluginMessageHandling"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftDiagnostics",
+                                    "targets": [
+                                        "SwiftDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftIDEUtils",
+                                    "targets": [
+                                        "SwiftIDEUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftOperators",
+                                    "targets": [
+                                        "SwiftOperators"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParser",
+                                    "targets": [
+                                        "SwiftParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParserDiagnostics",
+                                    "targets": [
+                                        "SwiftParserDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftRefactor",
+                                    "targets": [
+                                        "SwiftRefactor"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntax",
+                                    "targets": [
+                                        "SwiftSyntax"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxBuilder",
+                                    "targets": [
+                                        "SwiftSyntaxBuilder"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacroExpansion",
+                                    "targets": [
+                                        "SwiftSyntaxMacroExpansion"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacros",
+                                    "targets": [
+                                        "SwiftSyntaxMacros"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacrosTestSupport",
+                                    "targets": [
+                                        "SwiftSyntaxMacrosTestSupport"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "swift-parser-cli",
+                                    "targets": [
+                                        "swift-parser-cli"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SwiftBasicFormat",
+                                    "name": "SwiftBasicFormat"
+                                },
+                                {
+                                    "moduleName": "SwiftCompilerPlugin",
+                                    "name": "SwiftCompilerPlugin"
+                                },
+                                {
+                                    "moduleName": "SwiftCompilerPluginMessageHandling",
+                                    "name": "SwiftCompilerPluginMessageHandling"
+                                },
+                                {
+                                    "moduleName": "SwiftDiagnostics",
+                                    "name": "SwiftDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftIDEUtils",
+                                    "name": "SwiftIDEUtils"
+                                },
+                                {
+                                    "moduleName": "SwiftOperators",
+                                    "name": "SwiftOperators"
+                                },
+                                {
+                                    "moduleName": "SwiftParser",
+                                    "name": "SwiftParser"
+                                },
+                                {
+                                    "moduleName": "SwiftParserDiagnostics",
+                                    "name": "SwiftParserDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftRefactor",
+                                    "name": "SwiftRefactor"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntax",
+                                    "name": "SwiftSyntax"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxBuilder",
+                                    "name": "SwiftSyntaxBuilder"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacroExpansion",
+                                    "name": "SwiftSyntaxMacroExpansion"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacros",
+                                    "name": "SwiftSyntaxMacros"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacrosTestSupport",
+                                    "name": "SwiftSyntaxMacrosTestSupport"
+                                },
+                                {
+                                    "moduleName": "swift_parser_cli",
+                                    "name": "swift-parser-cli"
+                                }
+                            ],
+                            "toolsVersion": "5.7"
+                        }
+                    },
+                    "version": "509.0.0"
+                },
+                {
+                    "defaultToolsVersion": "5.7",
+                    "manifests": {
+                        "5.7": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "maccatalyst",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "swift-syntax",
+                            "products": [
+                                {
+                                    "name": "SwiftBasicFormat",
+                                    "targets": [
+                                        "SwiftBasicFormat"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftCompilerPlugin",
+                                    "targets": [
+                                        "SwiftCompilerPlugin"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftCompilerPluginMessageHandling",
+                                    "targets": [
+                                        "SwiftCompilerPluginMessageHandling"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftDiagnostics",
+                                    "targets": [
+                                        "SwiftDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftIDEUtils",
+                                    "targets": [
+                                        "SwiftIDEUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftOperators",
+                                    "targets": [
+                                        "SwiftOperators"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParser",
+                                    "targets": [
+                                        "SwiftParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParserDiagnostics",
+                                    "targets": [
+                                        "SwiftParserDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftRefactor",
+                                    "targets": [
+                                        "SwiftRefactor"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntax",
+                                    "targets": [
+                                        "SwiftSyntax"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxBuilder",
+                                    "targets": [
+                                        "SwiftSyntaxBuilder"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacroExpansion",
+                                    "targets": [
+                                        "SwiftSyntaxMacroExpansion"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacros",
+                                    "targets": [
+                                        "SwiftSyntaxMacros"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxMacrosTestSupport",
+                                    "targets": [
+                                        "SwiftSyntaxMacrosTestSupport"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "swift-parser-cli",
+                                    "targets": [
+                                        "swift-parser-cli"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SwiftBasicFormat",
+                                    "name": "SwiftBasicFormat"
+                                },
+                                {
+                                    "moduleName": "SwiftCompilerPlugin",
+                                    "name": "SwiftCompilerPlugin"
+                                },
+                                {
+                                    "moduleName": "SwiftCompilerPluginMessageHandling",
+                                    "name": "SwiftCompilerPluginMessageHandling"
+                                },
+                                {
+                                    "moduleName": "SwiftDiagnostics",
+                                    "name": "SwiftDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftIDEUtils",
+                                    "name": "SwiftIDEUtils"
+                                },
+                                {
+                                    "moduleName": "SwiftOperators",
+                                    "name": "SwiftOperators"
+                                },
+                                {
+                                    "moduleName": "SwiftParser",
+                                    "name": "SwiftParser"
+                                },
+                                {
+                                    "moduleName": "SwiftParserDiagnostics",
+                                    "name": "SwiftParserDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftRefactor",
+                                    "name": "SwiftRefactor"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntax",
+                                    "name": "SwiftSyntax"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxBuilder",
+                                    "name": "SwiftSyntaxBuilder"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacroExpansion",
+                                    "name": "SwiftSyntaxMacroExpansion"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacros",
+                                    "name": "SwiftSyntaxMacros"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxMacrosTestSupport",
+                                    "name": "SwiftSyntaxMacrosTestSupport"
+                                },
+                                {
+                                    "moduleName": "swift_parser_cli",
+                                    "name": "swift-parser-cli"
+                                }
+                            ],
+                            "toolsVersion": "5.7"
+                        }
+                    },
+                    "version": "509.0.0-swift-DEVELOPMENT-SNAPSHOT-2023-09-05-a"
+                },
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "maccatalyst",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "SwiftSyntax",
+                            "products": [
+                                {
+                                    "name": "IDEUtils",
+                                    "targets": [
+                                        "IDEUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftDiagnostics",
+                                    "targets": [
+                                        "SwiftDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftOperators",
+                                    "targets": [
+                                        "SwiftOperators"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParser",
+                                    "targets": [
+                                        "SwiftParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParserDiagnostics",
+                                    "targets": [
+                                        "SwiftParserDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftRefactor",
+                                    "targets": [
+                                        "SwiftRefactor"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntax",
+                                    "targets": [
+                                        "SwiftSyntax"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxBuilder",
+                                    "targets": [
+                                        "SwiftSyntaxBuilder"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxParser",
+                                    "targets": [
+                                        "SwiftSyntaxParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_SwiftSyntaxMacros",
+                                    "targets": [
+                                        "_SwiftSyntaxMacros"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "lit-test-helper",
+                                    "targets": [
+                                        "lit-test-helper"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                },
+                                {
+                                    "name": "swift-parser-cli",
+                                    "targets": [
+                                        "swift-parser-cli"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "IDEUtils",
+                                    "name": "IDEUtils"
+                                },
+                                {
+                                    "moduleName": "SwiftDiagnostics",
+                                    "name": "SwiftDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftOperators",
+                                    "name": "SwiftOperators"
+                                },
+                                {
+                                    "moduleName": "SwiftParser",
+                                    "name": "SwiftParser"
+                                },
+                                {
+                                    "moduleName": "SwiftParserDiagnostics",
+                                    "name": "SwiftParserDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftRefactor",
+                                    "name": "SwiftRefactor"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntax",
+                                    "name": "SwiftSyntax"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxBuilder",
+                                    "name": "SwiftSyntaxBuilder"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxParser",
+                                    "name": "SwiftSyntaxParser"
+                                },
+                                {
+                                    "moduleName": "_SwiftSyntaxMacros",
+                                    "name": "_SwiftSyntaxMacros"
+                                },
+                                {
+                                    "moduleName": "lit_test_helper",
+                                    "name": "lit-test-helper"
+                                },
+                                {
+                                    "moduleName": "swift_parser_cli",
+                                    "name": "swift-parser-cli"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "508.0.1"
+                },
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.15"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "6.0"
+                                },
+                                {
+                                    "name": "maccatalyst",
+                                    "version": "13.0"
+                                }
+                            ],
+                            "packageName": "SwiftSyntax",
+                            "products": [
+                                {
+                                    "name": "IDEUtils",
+                                    "targets": [
+                                        "IDEUtils"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftDiagnostics",
+                                    "targets": [
+                                        "SwiftDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftOperators",
+                                    "targets": [
+                                        "SwiftOperators"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParser",
+                                    "targets": [
+                                        "SwiftParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftParserDiagnostics",
+                                    "targets": [
+                                        "SwiftParserDiagnostics"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftRefactor",
+                                    "targets": [
+                                        "SwiftRefactor"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntax",
+                                    "targets": [
+                                        "SwiftSyntax"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxBuilder",
+                                    "targets": [
+                                        "SwiftSyntaxBuilder"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SwiftSyntaxParser",
+                                    "targets": [
+                                        "SwiftSyntaxParser"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "_SwiftSyntaxMacros",
+                                    "targets": [
+                                        "_SwiftSyntaxMacros"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "static"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "lit-test-helper",
+                                    "targets": [
+                                        "lit-test-helper"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                },
+                                {
+                                    "name": "swift-parser-cli",
+                                    "targets": [
+                                        "swift-parser-cli"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "IDEUtils",
+                                    "name": "IDEUtils"
+                                },
+                                {
+                                    "moduleName": "SwiftDiagnostics",
+                                    "name": "SwiftDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftOperators",
+                                    "name": "SwiftOperators"
+                                },
+                                {
+                                    "moduleName": "SwiftParser",
+                                    "name": "SwiftParser"
+                                },
+                                {
+                                    "moduleName": "SwiftParserDiagnostics",
+                                    "name": "SwiftParserDiagnostics"
+                                },
+                                {
+                                    "moduleName": "SwiftRefactor",
+                                    "name": "SwiftRefactor"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntax",
+                                    "name": "SwiftSyntax"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxBuilder",
+                                    "name": "SwiftSyntaxBuilder"
+                                },
+                                {
+                                    "moduleName": "SwiftSyntaxParser",
+                                    "name": "SwiftSyntaxParser"
+                                },
+                                {
+                                    "moduleName": "_SwiftSyntaxMacros",
+                                    "name": "_SwiftSyntaxMacros"
+                                },
+                                {
+                                    "moduleName": "lit_test_helper",
+                                    "name": "lit-test-helper"
+                                },
+                                {
+                                    "moduleName": "swift_parser_cli",
+                                    "name": "swift-parser-cli"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "version": "508.0.0"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/apple/swift-testing",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.9",
+                    "manifests": {
+                        "5.9": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "16.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "16.0"
+                                },
+                                {
+                                    "name": "visionos",
+                                    "version": "1.0"
+                                }
+                            ],
+                            "packageName": "swift-testing",
+                            "products": [
+                                {
+                                    "name": "GitStatus",
+                                    "targets": [
+                                        "GitStatus"
+                                    ],
+                                    "type": {
+                                        "executable": null
+                                    }
+                                },
+                                {
+                                    "name": "Testing",
+                                    "targets": [
+                                        "Testing"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "TestingMacros",
+                                    "targets": [
+                                        "TestingMacros"
+                                    ],
+                                    "type": {
+                                        "macro": null
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "GitStatus",
+                                    "name": "GitStatus"
+                                },
+                                {
+                                    "moduleName": "Testing",
+                                    "name": "Testing"
+                                },
+                                {
+                                    "moduleName": "TestingMacros",
+                                    "name": "TestingMacros"
+                                }
+                            ],
+                            "toolsVersion": "5.9"
+                        }
+                    },
+                    "version": "0.0.0-initial"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/Swinject/Swinject",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "2.0"
+                                }
+                            ],
+                            "packageName": "Swinject",
+                            "products": [
+                                {
+                                    "name": "Swinject",
+                                    "targets": [
+                                        "Swinject"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Swinject-Dynamic",
+                                    "targets": [
+                                        "Swinject"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Swinject",
+                                    "name": "Swinject"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "2.8.4"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "2.0"
+                                }
+                            ],
+                            "packageName": "Swinject",
+                            "products": [
+                                {
+                                    "name": "Swinject",
+                                    "targets": [
+                                        "Swinject"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Swinject-Dynamic",
+                                    "targets": [
+                                        "Swinject"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Swinject",
+                                    "name": "Swinject"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "2.8.3"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "2.0"
+                                }
+                            ],
+                            "packageName": "Swinject",
+                            "products": [
+                                {
+                                    "name": "Swinject",
+                                    "targets": [
+                                        "Swinject"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "Swinject-Dynamic",
+                                    "targets": [
+                                        "Swinject"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Swinject",
+                                    "name": "Swinject"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "2.8.2"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/elai950/AlertToast",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "11.0"
+                                }
+                            ],
+                            "packageName": "AlertToast",
+                            "products": [
+                                {
+                                    "name": "AlertToast",
+                                    "targets": [
+                                        "AlertToast"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "AlertToast",
+                                    "name": "AlertToast"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "summary": "Fixed line break bug.",
+                    "version": "1.3.9"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "11.0"
+                                }
+                            ],
+                            "packageName": "AlertToast",
+                            "products": [
+                                {
+                                    "name": "AlertToast",
+                                    "targets": [
+                                        "AlertToast"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "AlertToast",
+                                    "name": "AlertToast"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "summary": "",
+                    "version": "1.3.8"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "13.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "11.0"
+                                }
+                            ],
+                            "packageName": "AlertToast",
+                            "products": [
+                                {
+                                    "name": "AlertToast",
+                                    "targets": [
+                                        "AlertToast"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "AlertToast",
+                                    "name": "AlertToast"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "summary": "Fixed 'internal' protection error",
+                    "version": "1.3.7"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/ReactiveX/RxSwift",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                }
+                            ],
+                            "packageName": "RxSwift",
+                            "products": [
+                                {
+                                    "name": "RxBlocking",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxBlocking-Dynamic",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa-Dynamic",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay-Dynamic",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift-Dynamic",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest-Dynamic",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "RxBlocking",
+                                    "name": "RxBlocking"
+                                },
+                                {
+                                    "moduleName": "RxCocoa",
+                                    "name": "RxCocoa"
+                                },
+                                {
+                                    "moduleName": "RxRelay",
+                                    "name": "RxRelay"
+                                },
+                                {
+                                    "moduleName": "RxSwift",
+                                    "name": "RxSwift"
+                                },
+                                {
+                                    "moduleName": "RxTest",
+                                    "name": "RxTest"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "6.6.0"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                }
+                            ],
+                            "packageName": "RxSwift",
+                            "products": [
+                                {
+                                    "name": "RxBlocking",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxBlocking-Dynamic",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa-Dynamic",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay-Dynamic",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift-Dynamic",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest-Dynamic",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "RxBlocking",
+                                    "name": "RxBlocking"
+                                },
+                                {
+                                    "moduleName": "RxCocoa",
+                                    "name": "RxCocoa"
+                                },
+                                {
+                                    "moduleName": "RxRelay",
+                                    "name": "RxRelay"
+                                },
+                                {
+                                    "moduleName": "RxSwift",
+                                    "name": "RxSwift"
+                                },
+                                {
+                                    "moduleName": "RxTest",
+                                    "name": "RxTest"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "6.5.0"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "packageName": "RxSwift",
+                            "products": [
+                                {
+                                    "name": "RxBlocking",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "RxBlocking",
+                                    "name": "RxBlocking"
+                                },
+                                {
+                                    "moduleName": "RxCocoa",
+                                    "name": "RxCocoa"
+                                },
+                                {
+                                    "moduleName": "RxRelay",
+                                    "name": "RxRelay"
+                                },
+                                {
+                                    "moduleName": "RxSwift",
+                                    "name": "RxSwift"
+                                },
+                                {
+                                    "moduleName": "RxTest",
+                                    "name": "RxTest"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "6.2.0"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "8.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                }
+                            ],
+                            "packageName": "RxSwift",
+                            "products": [
+                                {
+                                    "name": "RxBlocking",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "RxBlocking",
+                                    "name": "RxBlocking"
+                                },
+                                {
+                                    "moduleName": "RxCocoa",
+                                    "name": "RxCocoa"
+                                },
+                                {
+                                    "moduleName": "RxRelay",
+                                    "name": "RxRelay"
+                                },
+                                {
+                                    "moduleName": "RxSwift",
+                                    "name": "RxSwift"
+                                },
+                                {
+                                    "moduleName": "RxTest",
+                                    "name": "RxTest"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "5.1.3"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "8.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                }
+                            ],
+                            "packageName": "RxSwift",
+                            "products": [
+                                {
+                                    "name": "RxBlocking",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "RxBlocking",
+                                    "name": "RxBlocking"
+                                },
+                                {
+                                    "moduleName": "RxCocoa",
+                                    "name": "RxCocoa"
+                                },
+                                {
+                                    "moduleName": "RxRelay",
+                                    "name": "RxRelay"
+                                },
+                                {
+                                    "moduleName": "RxSwift",
+                                    "name": "RxSwift"
+                                },
+                                {
+                                    "moduleName": "RxTest",
+                                    "name": "RxTest"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "5.1.2"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.10"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "8.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                }
+                            ],
+                            "packageName": "RxSwift",
+                            "products": [
+                                {
+                                    "name": "RxBlocking",
+                                    "targets": [
+                                        "RxBlocking"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxCocoa",
+                                    "targets": [
+                                        "RxCocoa"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxRelay",
+                                    "targets": [
+                                        "RxRelay"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxSwift",
+                                    "targets": [
+                                        "RxSwift"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "RxTest",
+                                    "targets": [
+                                        "RxTest"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "RxBlocking",
+                                    "name": "RxBlocking"
+                                },
+                                {
+                                    "moduleName": "RxCocoa",
+                                    "name": "RxCocoa"
+                                },
+                                {
+                                    "moduleName": "RxRelay",
+                                    "name": "RxRelay"
+                                },
+                                {
+                                    "moduleName": "RxSwift",
+                                    "name": "RxSwift"
+                                },
+                                {
+                                    "moduleName": "RxTest",
+                                    "name": "RxTest"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "version": "5.1.1"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/SDWebImage/SDWebImage",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.11"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "2.0"
+                                }
+                            ],
+                            "packageName": "SDWebImage",
+                            "products": [
+                                {
+                                    "name": "SDWebImage",
+                                    "targets": [
+                                        "SDWebImage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SDWebImageMapKit",
+                                    "targets": [
+                                        "SDWebImageMapKit"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SDWebImage",
+                                    "name": "SDWebImage"
+                                },
+                                {
+                                    "moduleName": "SDWebImageMapKit",
+                                    "name": "SDWebImageMapKit"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "summary": "",
+                    "version": "5.18.3"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.11"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "2.0"
+                                }
+                            ],
+                            "packageName": "SDWebImage",
+                            "products": [
+                                {
+                                    "name": "SDWebImage",
+                                    "targets": [
+                                        "SDWebImage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SDWebImageMapKit",
+                                    "targets": [
+                                        "SDWebImageMapKit"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SDWebImage",
+                                    "name": "SDWebImage"
+                                },
+                                {
+                                    "moduleName": "SDWebImageMapKit",
+                                    "name": "SDWebImageMapKit"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "summary": "",
+                    "version": "5.18.2"
+                },
+                {
+                    "defaultToolsVersion": "5.3",
+                    "manifests": {
+                        "5.3": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "macos",
+                                    "version": "10.11"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "2.0"
+                                }
+                            ],
+                            "packageName": "SDWebImage",
+                            "products": [
+                                {
+                                    "name": "SDWebImage",
+                                    "targets": [
+                                        "SDWebImage"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "SDWebImageMapKit",
+                                    "targets": [
+                                        "SDWebImageMapKit"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "SDWebImage",
+                                    "name": "SDWebImage"
+                                },
+                                {
+                                    "moduleName": "SDWebImageMapKit",
+                                    "name": "SDWebImageMapKit"
+                                }
+                            ],
+                            "toolsVersion": "5.3"
+                        }
+                    },
+                    "version": "5.18.1"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/onevcat/Kingfisher",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.9",
+                    "manifests": {
+                        "5.9": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "12.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.14"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "12.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "5.0"
+                                },
+                                {
+                                    "name": "visionos",
+                                    "version": "1.0"
+                                }
+                            ],
+                            "packageName": "Kingfisher",
+                            "products": [
+                                {
+                                    "name": "Kingfisher",
+                                    "targets": [
+                                        "Kingfisher"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Kingfisher",
+                                    "name": "Kingfisher"
+                                }
+                            ],
+                            "toolsVersion": "5.9"
+                        }
+                    },
+                    "summary": "",
+                    "version": "7.9.1"
+                },
+                {
+                    "defaultToolsVersion": "5.9",
+                    "manifests": {
+                        "5.9": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "12.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.14"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "12.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "5.0"
+                                },
+                                {
+                                    "name": "visionos",
+                                    "version": "1.0"
+                                }
+                            ],
+                            "packageName": "Kingfisher",
+                            "products": [
+                                {
+                                    "name": "Kingfisher",
+                                    "targets": [
+                                        "Kingfisher"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Kingfisher",
+                                    "name": "Kingfisher"
+                                }
+                            ],
+                            "toolsVersion": "5.9"
+                        }
+                    },
+                    "summary": "",
+                    "version": "7.9.0"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "12.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.14"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "12.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "5.0"
+                                }
+                            ],
+                            "packageName": "Kingfisher",
+                            "products": [
+                                {
+                                    "name": "Kingfisher",
+                                    "targets": [
+                                        "Kingfisher"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Kingfisher",
+                                    "name": "Kingfisher"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "summary": "",
+                    "version": "7.8.1"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.12"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                }
+                            ],
+                            "packageName": "Kingfisher",
+                            "products": [
+                                {
+                                    "name": "Kingfisher",
+                                    "targets": [
+                                        "Kingfisher"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Kingfisher",
+                                    "name": "Kingfisher"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "summary": "",
+                    "version": "6.3.1"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.12"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                }
+                            ],
+                            "packageName": "Kingfisher",
+                            "products": [
+                                {
+                                    "name": "Kingfisher",
+                                    "targets": [
+                                        "Kingfisher"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Kingfisher",
+                                    "name": "Kingfisher"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "summary": "",
+                    "version": "6.3.0"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.12"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "watchos",
+                                    "version": "3.0"
+                                }
+                            ],
+                            "packageName": "Kingfisher",
+                            "products": [
+                                {
+                                    "name": "Kingfisher",
+                                    "targets": [
+                                        "Kingfisher"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Kingfisher",
+                                    "name": "Kingfisher"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "summary": "",
+                    "version": "6.2.1"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/HeroTransitions/Hero",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "tvos",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "10.0"
+                                }
+                            ],
+                            "packageName": "Hero",
+                            "products": [
+                                {
+                                    "name": "Hero",
+                                    "targets": [
+                                        "Hero"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Hero",
+                                    "name": "Hero"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "summary": "- [#717](https://github.com/HeroTransitions/Hero/issues/717) - [#734](https://github.com/HeroTransitions/Hero/issues/734) - [#735](https://github.com/HeroTransitions/Hero/issues/735) - [#736](https://github.com/HeroTransitions/Hero/issues/736) - [#739](https://github.com/HeroTransitions/Hero/issues/739) - [#740](https://github.com/HeroTransitions/Hero/issues/740) Fix build warings in XCode 13.4.1 c30a7a867d3bc420e90ad276d9bf12287628ce87 - [#742](https://github.com/HeroTransitions/Hero/issues/742) Add `anchorPoint` support for transitioning a76e9f6dbeefb530743994634d37235e59401911",
+                    "version": "1.6.2"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "tvos",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "10.0"
+                                }
+                            ],
+                            "packageName": "Hero",
+                            "products": [
+                                {
+                                    "name": "Hero",
+                                    "targets": [
+                                        "Hero"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Hero",
+                                    "name": "Hero"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "summary": "Release 1.6.1",
+                    "version": "1.6.1"
+                },
+                {
+                    "defaultToolsVersion": "5.0",
+                    "manifests": {
+                        "5.0": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "tvos",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "ios",
+                                    "version": "10.0"
+                                }
+                            ],
+                            "packageName": "Hero",
+                            "products": [
+                                {
+                                    "name": "Hero",
+                                    "targets": [
+                                        "Hero"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "dynamic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Hero",
+                                    "name": "Hero"
+                                }
+                            ],
+                            "toolsVersion": "5.0"
+                        }
+                    },
+                    "summary": "1.6.0 Release",
+                    "version": "1.6.0"
+                }
+            ]
+        },
+        {
+            "url": "https://github.com/QuickBirdEng/XCoordinator",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                }
+                            ],
+                            "packageName": "XCoordinator",
+                            "products": [
+                                {
+                                    "name": "XCoordinator",
+                                    "targets": [
+                                        "XCoordinator"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "XCoordinatorCombine",
+                                    "targets": [
+                                        "XCoordinatorCombine"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "XCoordinatorRx",
+                                    "targets": [
+                                        "XCoordinatorRx"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "XCoordinator",
+                                    "name": "XCoordinator"
+                                },
+                                {
+                                    "moduleName": "XCoordinatorCombine",
+                                    "name": "XCoordinatorCombine"
+                                },
+                                {
+                                    "moduleName": "XCoordinatorRx",
+                                    "name": "XCoordinatorRx"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "2.2.1"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                },
+                                {
+                                    "name": "tvos",
+                                    "version": "9.0"
+                                }
+                            ],
+                            "packageName": "XCoordinator",
+                            "products": [
+                                {
+                                    "name": "XCoordinator",
+                                    "targets": [
+                                        "XCoordinator"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "XCoordinatorCombine",
+                                    "targets": [
+                                        "XCoordinatorCombine"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "XCoordinatorRx",
+                                    "targets": [
+                                        "XCoordinatorRx"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "XCoordinator",
+                                    "name": "XCoordinator"
+                                },
+                                {
+                                    "moduleName": "XCoordinatorCombine",
+                                    "name": "XCoordinatorCombine"
+                                },
+                                {
+                                    "moduleName": "XCoordinatorRx",
+                                    "name": "XCoordinatorRx"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "2.2.0"
+                },
+                {
+                    "defaultToolsVersion": "5.1",
+                    "manifests": {
+                        "5.1": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "9.0"
+                                }
+                            ],
+                            "packageName": "XCoordinator",
+                            "products": [
+                                {
+                                    "name": "XCoordinator",
+                                    "targets": [
+                                        "XCoordinator"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "XCoordinatorCombine",
+                                    "targets": [
+                                        "XCoordinatorCombine"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                },
+                                {
+                                    "name": "XCoordinatorRx",
+                                    "targets": [
+                                        "XCoordinatorRx"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "XCoordinator",
+                                    "name": "XCoordinator"
+                                },
+                                {
+                                    "moduleName": "XCoordinatorCombine",
+                                    "name": "XCoordinatorCombine"
+                                },
+                                {
+                                    "moduleName": "XCoordinatorRx",
+                                    "name": "XCoordinatorRx"
+                                }
+                            ],
+                            "toolsVersion": "5.1"
+                        }
+                    },
+                    "version": "2.1.0"
+                }
+            ]
+        }
+    ]
+}
